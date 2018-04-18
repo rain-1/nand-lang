@@ -8,4 +8,4 @@ raco pkg install -u -t dir nand-lang
 
 # Example
 
-![alt text](/nand lang.png?raw=true)
+![alt text](/nand%20lang.png?raw=true)
